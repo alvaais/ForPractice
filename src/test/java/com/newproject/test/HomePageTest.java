@@ -38,7 +38,7 @@ public class HomePageTest extends TestBase{
 		Assert.assertEquals(title, "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in");
 	}
 	
-	
+//made a change for git	
 	@Test(priority=2)
 	public void validateseeMore()
 	{
